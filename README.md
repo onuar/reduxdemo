@@ -1,5 +1,5 @@
 # Redux demo
-Demo project for my Medium article.
+Demo project for my Medium article. (https://medium.com/@onuraykac/i%CC%87pin-ucunu-ka%C3%A7%C4%B1rmamak-redux-8d822da0d19b)
 
 # Install
     npm install
